@@ -1,8 +1,5 @@
 ### Notes
-The original data not included in the git repository can be obtained at:
-https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
-
-It was downloaded from the referenced link on 5/10/204 at 14:07EDT
+The original data not included in the git repository was downloaded from the referenced link on 5/10/204 at 14:07EDT
 
 
 ## Introduction
